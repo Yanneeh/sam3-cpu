@@ -1,3 +1,10 @@
+# CPU only fork of the SAM3 repository
+
+__This repository is a modified version of the SAM3 repository and only works on the CPU.__
+
+# DO NOT CONFUSE THIS WITH THE REAL SAM3 REPOSITORY. THIS WON'T BE MAINTAINED.
+
+
 # SAM 3: Segment Anything with Concepts
 
 Meta Superintelligence Labs
